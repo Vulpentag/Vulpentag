@@ -28,8 +28,9 @@ I'm a first-year **Computer Engineering** student with a passion for building an
 
 <a href= "https://www.instagram.com/anibal_sepulved?igsh=eW9nY3p5czVpbWRu">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-
+  
+[![Itch.io](https://img.shields.io/badge/Itch.io-%23fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://vulpentag.itch.io)
+[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Link">](https://discordapp.com/users/629781179075)
 
 
 
